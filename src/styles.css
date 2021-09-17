@@ -1,0 +1,57 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #eeeeee;
+}
+.h1 {
+  color: white;
+  font-size-adjust: auto;
+  font-weight: bold;
+  padding: 1rem;
+  background-color: #1d2439;
+}
+input {
+  padding: 1rem;
+  width: 50%;
+  margin: 5px;
+  background-color: white;
+  font-weight: bold;
+  border: 2px solid black;
+}
+
+.box-emoji {
+  padding: 1rem;
+  letter-spacing: 0.5rem;
+  line-height: auto;
+  font-size: 30px;
+  max-width: 50%;
+  margin: auto;
+  border: 2px solid black;
+  background-color: white;
+}
+
+.box-emoji span {
+  cursor: pointer;
+}
+
+.output {
+  padding: 1rem;
+  max-width: 50%;
+  margin: auto;
+  background-color: white;
+}
+
+.output span {
+  width: auto;
+  margin: auto;
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+
+.output h3 {
+  color: #134fe6;
+  font-weight: bold;
+}
