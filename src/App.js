@@ -10,7 +10,11 @@ const emojiDB = {
   "🔥": "It's Lit.",
   "😮💨":
     "Used to project how something is impressive or how surprising something is..",
-  "💁✋": "I have had enough of your complaining,."
+  "💁✋": "I have had enough of your complaining,.",
+  "🤣": "Rolling on the Floor Laughing",
+  "🤩": "Star-Struck",
+  "🤪": "Zany Face",
+  "😬": "Grimacing Face"
 };
 
 const emojisKeys = Object.keys(emojiDB);
